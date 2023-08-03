@@ -1,0 +1,2 @@
+# termuxmotdeditor
+edit termux motd
