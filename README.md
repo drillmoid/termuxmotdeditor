@@ -1,2 +1,3 @@
 # termuxmotdeditor
-edit termux motd
+motd <code>message of the day</code> is the very first welcome message you get once you open termux, with this tool, you can easily customise the message to suit your preferences, however this script is purely a termux accessory and using it outside termux will not work, the file named <code>defaultmotd.txt</code> contains the default termux motd incase you wish to reset, to edit your motd, make sure you have git installed run <code>pkg install git</code>, now to get the code in termux, run <code>git clone https://github.com/drillmoid/termuxmotdeditor/tree/main</code> to clone the repository, once this is done, open the folder and run <code>bash motd.sh</code> then enter your custom motd, finally run <code>logout</code> to exit termux and login again to see your custom motd
+
